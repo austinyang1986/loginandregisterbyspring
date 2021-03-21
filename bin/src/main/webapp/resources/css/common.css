@@ -46,12 +46,3 @@ body {
 .has-error {
     color: red
 }
-
-.container {
-    padding-left: 0px;
-}
-
-a.register{    
-    margin-left: 62px;
-    margin-top: 10px;
-}
