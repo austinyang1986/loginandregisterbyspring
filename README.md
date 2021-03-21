@@ -14,5 +14,3 @@
    3.spring-boot:run
 ## url
    localhost:http://localhost:8080/
-# -Registration-LoginwithSpring-
-# share
